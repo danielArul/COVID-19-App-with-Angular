@@ -1,0 +1,40 @@
+#dropDown{
+    color: black;
+    text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+.summary{
+    position: absolute;
+    left: 40%;
+    width: 300px;
+    float: left;
+    margin:10px;
+    background-color: rgb(42, 136, 243);
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+}
+
+.title{
+    background: rgb(9, 0, 87);
+    font-weight: bold;
+    font-size: 20px;
+    padding:0px;
+    border-bottom:solid black 2px;
+    text-shadow: 1px 1px 1px white;
+}
+
+.data-blocks{
+    background: rgb(12, 36, 253);
+    padding:10px;
+    margin:5px;
+}
+
+.data-blocks-title{
+
+    text-shadow: 1px 1px 1px black;
+
+
+}
